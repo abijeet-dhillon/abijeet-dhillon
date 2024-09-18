@@ -7,6 +7,7 @@
 
 ---
 
+<!--- Education -->
 ### 🎓 Education
 
 **University of British Columbia**  
@@ -18,8 +19,6 @@
 - Software Engineering
 - Machine Learning
 - Artificial Intelligence
-
----
 
 <!-- Badges and Quick Summary -->
 ---
