@@ -60,10 +60,10 @@ Communication, Time Management, Self-Starter, Dependable, Eager to Learn
 
 ---
 
-### 📈 GitHub Activity
-
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abijeet-dhillon&layout=compact&theme=tokyonight" alt="Top Languages" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abijeet-dhillon&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abijeet-dhillon&theme=tokyonight" alt="GitHub Streak" width="400px"/>
 </p>
 
 ---
