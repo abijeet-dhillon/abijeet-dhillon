@@ -11,7 +11,7 @@
 ### 🎓 Education
 
 **University of British Columbia**  
-*Bachelor of Science in Computer Science, Minor in Data Science*  
+*Bachelor of Science in Computer Science*  
 📍 Kelowna, BC | *Sep 2021 - Apr 2026*  
 
 **Key Courses:**  
