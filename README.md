@@ -1,5 +1,5 @@
 <pre>
 Abijeet Dhillon
-Computer Science | University of British Columbia
+BSc Computer Science | University of British Columbia
 Master of Data Science & Analytics | University of Calgary
 </pre>
